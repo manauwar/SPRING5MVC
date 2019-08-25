@@ -1,4 +1,4 @@
-package com.matrix.spring.mvc;
+package com.matrix.spring.mvc.controller;
 
 import javax.servlet.http.HttpServletRequest;
 
